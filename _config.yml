@@ -33,7 +33,7 @@ facebook:
   username:
 github:
   username:
-rss_enable: false
+rss_enable: true
 
 # Facebook comment plugin
 comment_enabled: true
@@ -46,7 +46,7 @@ ga_ua:
 
 ## (End)Features
 
-main_title:
+main_title: Doodle Factory
 main_url:
 
 menu_list:    # Add menu
@@ -56,8 +56,11 @@ menu_list:    # Add menu
 
 footer_list:    # Add footer menu
   - menu:
-    title:
-    url:
+    title: BeerStory
+    url: https://beerstory.io
+  - menu:
+    title: Blog
+    url: /
 
 collections:
   tags:
