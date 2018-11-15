@@ -196,12 +196,12 @@ for small screen(<720px):
     position: absolute;
     top: 10px;
     left: 30px;
-    width: 71px;
-    height: 35px;
+    width: 90px;
+    height: 45px;
     margin: 0 0;
     padding: 0;
-    background: url(../images/pc/blog_logo.png) no-repeat center;
-    background-size: 71px 35px;
+    background: url(../images/pc/bs_blog_logo.png) no-repeat center;
+    background-size: 90px 45px;
 }
 
 #menu {
@@ -779,7 +779,7 @@ body.page-template #cover {
 }
 
 body.home-template #cover {
-    background-image: url(../images/default_blog_cover.jpg);
+    background-image: url(../images/bs_blog_cover.jpg);
 }
 
 body.post-template #cover {
@@ -787,7 +787,7 @@ body.post-template #cover {
 }
 
 body.page-template #cover {
-    background-image: url(../images/default_page_cover.jpg);
+    background-image: url(../images/bs_blog_cover.jpg);
 }
 
 body.author-template #cover {
@@ -1243,8 +1243,8 @@ body.page-template {
         top: 0;
         height: 50px;
         margin: 0 auto;
-        background-image: url(../images/mo/blog_logo.png);
-        background-size: 45px 22px;
+        background-image: url(../images/mo/bs_blog_logo.png);
+        background-size: 60px 30px;
     }
 
     #menu {
@@ -1641,7 +1641,7 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/blog_logo@2x.png);
+        background-image: url(../images/mo/bs_blog_logo.png);
     }
 
     #menu-toggle {
@@ -1739,7 +1739,7 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/blog_logo@3x.png);
+        background-image: url(../images/mo/bs_blog_logo.png);
     }
 
     #menu-toggle {
