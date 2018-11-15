@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BLOG TITLE
-email: email@email.com
+title: Beer Story::Blog
+email: doodle.fac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog description
+  Beer Story의 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.beerstory.io" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: Asia/Seoul
 encoding: UTF-8
+image: "https://blog.beerstory.io/files/bs_logo_600w.png"
 
 permalink: /:year/:month/:day/:title/
 asset_url: /assets
@@ -38,7 +39,7 @@ rss_enable: false
 comment_enabled: true
 
 # Category menu
-category_enabled: true
+category_enabled: false
 
 # Google Analytics
 ga_ua:
