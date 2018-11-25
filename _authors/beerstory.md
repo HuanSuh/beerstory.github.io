@@ -1,5 +1,5 @@
 ---
-name: Beer Story
+name: BeerStory
 title: 		     
 image: /files/authors/beerstory.png		# optional (or [/files/authors/author_name.jpg])
 cover: 		# optional (or [/files/authors/author_name_cover.jpg])

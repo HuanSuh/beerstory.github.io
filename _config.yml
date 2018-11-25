@@ -39,7 +39,7 @@ rss_enable: true
 comment_enabled: true
 
 # Category menu
-category_enabled: false
+category_enabled: true
 
 # Google Analytics
 ga_ua:
