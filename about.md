@@ -20,6 +20,16 @@ BeerStory는 맥주에 대한 이야기를 나누고,<br>더 맛있는 맥주를
 
 * ### version **BlueMoon**
 
+    <details><summary style="outline:none;">2018.12.31 : v1.1.1</summary>
+        <div style="padding-left: 15px">
+        [주요 수정사항]<br/>
+        <div style="padding-left: 15px">
+        - Setting Page 개선<br/>
+        - library 변경(redux -> MobX)<br/>
+        </div></div>
+        <div style='border-bottom: 1px solid #d6d6d6; margin: 15px;'></div>
+    </details>
+    
     <details><summary style="outline:none;">2018.11.26 : v1.1.0</summary>
         <div style="padding-left: 15px">
         [주요기능]<br/>
